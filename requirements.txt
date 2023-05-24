@@ -13,3 +13,6 @@ pypdf==3.8.1
 InstructorEmbedding==1.0.0
 tiktoken
 text_generation==0.5.2
+## Temporary solution for import langchain issue
+typing-inspect==0.8.0
+typing_extensions==4.5.0
